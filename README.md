@@ -19,7 +19,7 @@
   To run locally you will need Node.js. Use "npm install" to install express and uuid. Then use "node server.js" to run. Connect to http://localhost:3001/ in your brower to test the endpoints while running the server.
 
   ## Usage
-  ![Node Screenshot](./public/assets/screenshots/full-page-screenshot.PNG)
+  ![Screenshot](public/assets/screenshots/full-page-screenshot.png)
   
   ## Deployed
   [Heroku App](https://bobswiftfoot-note-taker.herokuapp.com/)
