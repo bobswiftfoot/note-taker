@@ -8,6 +8,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Deployed](#deployed)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -19,14 +20,15 @@
 
   ## Usage
   ![Node Screenshot](./public/assets/screenshots/full-page-screenshot.PNG)
-
+  
+  ## Deployed
+  [Heroku App](https://bobswiftfoot-note-taker.herokuapp.com/)
   
   ## License
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license. 
 
   Copyright 2021
   
-
   ## Contributing
   bobswiftfoot
 
